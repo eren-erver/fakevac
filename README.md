@@ -15,5 +15,5 @@ After that try to connect to port 25 via this command:
 
 If you are connected, you can type "echo working" in telnet console and if you can see "working" on your console in csgo that means it is working.
 
-If you couldn't connect add a firewall exception . If that doesn't work either , try another port.
+If you couldn't connect , add a firewall exception . If that doesn't work either , try another port.
 
