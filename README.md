@@ -1,4 +1,4 @@
-# Fake VAC Ban
+# Fake VAC Ban Message
 It disconnects you as soon as you enter a server and displays a "vac banned from secure server" message on screen.
 Could be used as a prank.
 You need to add -netcon 25 (default is 25) on csgo launch options.
